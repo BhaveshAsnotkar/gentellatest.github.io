@@ -1,0 +1,15 @@
+.mp svg{
+	height: 500px;
+	width: auto;
+}
+
+.navi ul a li{
+	display: inline;
+	font-size:20px;
+
+}
+
+.navi ul a{
+	text-decoration: none;
+	
+}

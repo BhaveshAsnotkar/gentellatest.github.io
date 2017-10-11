@@ -1,0 +1,30 @@
+.maharashtra svg{
+	height: auto;
+	width: auto;
+}
+
+.navi ul li{
+	display: inline;
+
+	
+	}
+
+.navi ul a{
+	text-decoration: none;
+	
+}
+
+#linear{
+
+	margin-top: 1em;
+}
+
+@media screen and (max-width: 760px) {
+    #linear{
+
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+
+
+    }

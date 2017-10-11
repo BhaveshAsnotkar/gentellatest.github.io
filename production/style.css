@@ -1,0 +1,372 @@
+.map svg {
+            height: auto;
+            width: auto;
+        }
+        .map g {
+            fill: #ccc;
+            stroke: #333;
+            stroke-width: 0.5;
+        }
+
+        .map g #andraPradesh{
+            fill: #5cf91d ;
+        }
+
+
+          .map g #andraPradesh:hover{
+            fill: #bada55;
+        }
+
+        .map g #maharashtra{
+            fill: #41f91d;
+        }
+
+        .map g #maharashtra:hover{
+            fill: #bada55;
+        }
+
+
+        .map g #arunachalPradesh{
+            fill: #83f91d;
+        }
+
+        .map g #arunachalPradesh:hover{
+            fill: #bada55;
+        }  
+
+        
+        .map g #assam{
+            fill: #ffc700;
+        }
+
+        .map g #assam:hover{
+            fill: #bada55;
+        }  
+
+
+        .map g #meghalaya{
+            fill: #ffe100;
+        } 
+
+        .map g #meghalaya:hover{
+            fill: #bada55;
+        } 
+
+
+        .map g #nagaland{
+            fill: #ffd800;
+        } 
+
+        .map g #nagaland:hover{
+            fill: #bada55;
+        }  
+
+        .map g #manipur{
+            fill: #fffa00;
+        }
+
+        .map g #manipur:hover{
+            fill: #bada55;
+        }  
+       
+        .map g #tripura{
+            fill: #ffc700;
+        }  
+
+        .map g #tripura:hover{
+            fill: #bada55;
+        }  
+
+         .map g #mizoram{
+            fill: #ffa100;
+        } 
+
+         .map g #mizoram:hover{
+            fill: #bada55;
+        } 
+
+         .map g #westBengal{
+            fill: #66f91d;
+        } 
+
+        .map g #westBengal:hover{
+            fill: #bada55;
+        } 
+
+         .map g #sikkim{
+            fill: #ffd800;
+        } 
+
+        .map g #sikkim:hover{
+            fill: #bada55;
+        }
+
+         .map g #gujarat{
+            fill: #71f91d;
+        } 
+
+         .map g #gujarat:hover{
+            fill: #bada55;
+        } 
+
+        .map g #jharkhand{
+            fill: #fffa00;
+        } 
+
+        .map g #jharkhand:hover{
+            fill: #bada55;
+        } 
+
+         .map g #bihar{
+            fill: #a8f91d;
+        } 
+
+        .map g #bihar:hover{
+            fill: #bada55;
+        } 
+
+        .map g #odisha{
+            fill: #ffb200;
+        } 
+
+        .map g #odisha:hover{
+            fill: #bada55;
+        }
+
+        .map g #chhattisgarh{
+            fill: #ff9000;
+        }
+
+        .map g #chhattisgarh:hover{
+            fill: #bada55;
+        }  
+
+        .map g #uttarPradesh{
+            fill: #ff3b00;
+        } 
+
+        .map g #uttarPradesh:hover{
+            fill: #bada55;
+        } 
+
+         .map g #madhyaPradesh{
+            fill: #71f91d;
+        } 
+
+        .map g #madhyaPradesh:hover{
+            fill: #bada55;
+        } 
+
+         .map g #uttatrakhand{
+            fill: #ff6a00;
+        }
+
+        .map g #uttatrakhand:hover{
+            fill: #bada55;
+        }
+
+         .map g #delhi{
+            fill: #ff0000;
+        }
+
+        .map g #delhi:hover{
+            fill: #bada55;
+        }
+
+        .map g #haryana{
+            fill: #ff6100;
+        }
+
+        .map g #haryana:hover{
+            fill: #bada55;
+        }
+
+        .map g #punjab{
+            fill: #ff4300;
+        }
+
+        .map g #punjab:hover{
+            fill: #bada55;
+        }
+
+        .map g #chandigarh{
+            fill: #ff6e00;
+        }
+
+        .map g #chandigarh:hover{
+            fill: #bada55;
+        }
+
+        .map g #himachalPradesh{
+            fill: #ff3f00;
+        }
+
+        .map g #himachalPradesh:hover{
+            fill: #d35400;
+        }
+
+        .map g #jammuKashmir{
+            fill: #ff9d00;
+        }
+
+        .map g #jammuKashmir:hover{
+            fill: #bada55;
+        }
+
+        .map g #rajasthan{
+            fill: #ff4300;
+        }
+
+        .map g #rajasthan:hover{
+            fill: #bada55;
+        }
+
+        .map g #damanDiu{
+            fill: #ffa100;
+        }
+
+        .map g #damanDiu:hover{
+            fill: #bada55;
+        }
+
+        .map g #dnHaveli{
+            fill: #ffe500;
+        }
+
+        .map g #dnHaveli:hover{
+            fill: #bada55;
+        }
+
+        .map g #goa{
+            fill: #ff4300;
+        }
+        .map g #goa:hover{
+            fill: #bada55;
+        }
+
+        .map g #karnataka{
+            fill: #ff2e00;
+        }  
+
+        .map g #karnataka:hover{
+            fill: #bada55;
+        }
+
+         .map g #kerala{
+            fill:orange;
+        }
+
+        .map g #kerala:hover{
+            fill:  #bada55 ;
+        }
+
+        .map g #puducherry{
+            fill:  #ffdd00 ;
+        }
+
+         .map g #puducherry:hover{
+            fill:  #bada55 ;
+        }
+
+        .map g #lakshadweep:hover{
+            fill:  #7CEECE ;
+        }
+
+        .map g #tamilNadu{
+            fill:  #ff3f05 ;
+        }
+
+        .map g #tamilNadu:hover{
+            fill:  #bada55 ;
+        }
+
+        .map g #anIslands:hover{
+            fill:  #66CC99 ;
+        }
+
+
+
+/*------------*/
+
+ a {
+    all:unset;
+}
+
+
+
+
+
+    #linear{
+ margin-top:-250px; 
+   padding-bottom: 100px;
+    
+
+}
+
+@media screen and (max-width: 760px) {
+    #linear {
+     margin-top:-130px; 
+    padding-bottom: 100px
+    }
+    }
+
+
+.map svg{
+    margin-bottom: -250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
